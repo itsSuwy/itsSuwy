@@ -74,12 +74,8 @@ My current areas of focus:
 
 <h2 align="center">Statistics</h2> 
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noquesi06&show_icons=true&theme=vision-glow&count_private=true" height="170" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Noquesi06&layout=compact&theme=vision-glow" height="170" />
-  </div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noquesi06&show_icons=true&theme=vision-glow&count_private=true" height="170" />
+  <br><br>
 </div>
 
 <h2 align="center">Personal information</h2>

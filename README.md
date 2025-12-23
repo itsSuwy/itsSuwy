@@ -28,11 +28,11 @@ My current areas of focus:
    <td>    
     <ul>
       <li>Linux (Ubuntu)</li>
-      <li>Python</li>
-      <li>C</li>
-      <li>C++</li>
-      <li>Espressif</li>
-      <li>Arduino</li>
+      <li><b>Python</b></li>
+      <li><b>C</b></li>
+      <li><b>C++</b></li>
+      <li><b>Espressif</b></li>
+      <li><b>Arduino</b></li>
       <li>Conda</li>
        </ul>
      </td>

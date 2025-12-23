@@ -9,8 +9,10 @@
 
 
 **Mechatronics Engineering student** at the Universidad Veracruzana.
-Current areas of focus:
 
+I like to implement my programing skill to differents projects with ESP32 and Arduino.
+
+My current areas of focus:
 - Machine Learning
 - Embedded Systems
 
@@ -70,9 +72,27 @@ Current areas of focus:
   </tr>
 </table>
 
+<h2 align="center">Statistics</h2> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noquesi06&show_icons=true&theme=vision-glow" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noquesi06&layout=compact&theme=vision-glow" height="170" />
+  <div>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noquesi06&show_icons=true&theme=vision-glow&count_private=true" height="170" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Noquesi06&layout=compact&theme=vision-glow" height="170" />
+  </div>
 </div>
 
-Just a guy who loves his computer
+<h2 align="center">Personal information</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/diego-velázquez-sánchez-67b415344/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:diego.velazquez.2006@outlook.es">
+    <img src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" width="40" alt="Outlook"/>
+  </a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100024180138945" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40" alt="Facebook"/>
+  </a>
+</div>

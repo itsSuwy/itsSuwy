@@ -36,12 +36,38 @@ Current areas of focus:
      </td>
     </tr>
   </table>
-  <h3 align="right">IDE's</h3> 
-Since i dont have a "special IDE" to work, i normally prefer Jetbrains's Software such as Clion and Pycharm due 
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion" />
-  </a>
+<h3 align="left">IDE's</h3>
+<p>
+  Since I don't have a "favorite" IDE, I normally prefer <b>JetBrains</b> software due to its ease of use. However, I am comfortable using any environment like Sublime Text, VS Code, or even Notepad++.
 </p>
+
+<table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td valign="center">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="40" />
+    </td>
+    <td valign="center">
+      <b>PyCharm:</b> For Python projects such as Machine Learning, Django, and data analysis.
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="center">
+      <img src="https://skillicons.dev/icons?i=clion" width="40" />
+    </td>
+    <td valign="center">
+      <b>CLion:</b> For work involving C, C++, and C#. It is my main tool for <b>Espressif (ESP32)</b> development.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+    </td>
+    <td valign="center">
+      <b>Visual Studio Code:</b> Used for quick edits or situational tasks.
+    </td>
+  </tr>
+</table>
 
 Just a guy who loves his computer

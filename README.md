@@ -40,7 +40,7 @@ My current areas of focus:
   </table>
 <h3 align="left">IDE's</h3>
 <p>
-  Since I don't have a "favorite" IDE, I normally prefer <b>JetBrains</b> software due to its ease of use. However, I am comfortable using any environment like Sublime Text, VS Code, or even Notepad++.
+  Since I don't have a "special" IDE, I normally prefer <b>JetBrains</b>. However, I am comfortable using any environment like Sublime Text, VS Code, or even Notepad++.
 </p>
 
 <table border="0" cellspacing="0" cellpadding="5">

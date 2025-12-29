@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Imagen_Fondo.jpg" alt="Noquesi06 Banner Image" width="70%">
   <h1 align="center">
-    <i>Diego V. | Noquesi06</i>
+    <i>Diego V. | itsSuwy</i>
   </h1>
 </div>
 
@@ -24,10 +24,10 @@ My current areas of focus:
     <td>
       <img alt="Tech Stack Banner" src="banner_Tech_Stack.gif" width="200">
     </td>
-      These are the environments in which I've done some university works :p
+      These are the environments I'm used to working in :p.
    <td>    
     <ul>
-      <li>Linux (Ubuntu)</li>
+      <li>Linux (Arch/Ubuntu/Fedora)</li>
       <li><b>Python</b></li>
       <li><b>C</b></li>
       <li><b>C++</b></li>
@@ -76,6 +76,10 @@ My current areas of focus:
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noquesi06&show_icons=true&theme=vision-glow&count_private=true" height="170" />
   <br><br>
+</div>
+
+<div align="center">
+I use Arch, btw
 </div>
 
 <h2 align="center">Personal information</h2>
